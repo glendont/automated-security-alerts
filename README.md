@@ -1,5 +1,5 @@
 # Automate Security Notifications
-<p align="center"><img src="images/architecture_diagram.png" width="720" height="290"/>
+<p align="center"><img src="images/architecture_diagram.png" width="750" height="290"/>
 
 ## Project Overview
 This repository demonstrates an automated workflow to send out reminder emails to users at scale using AWS S3, Lambda and Simple Email Service (SES).
@@ -8,7 +8,7 @@ This repository demonstrates an automated workflow to send out reminder emails t
 To effectively spin up the project using the AWS SAM Framework, you'd require the following prerequisites:
 * [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
 * [AWS SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install-mac.html)
-c
+
 ## Set up Guide
 **Step 1**: Clone this project into your local environment 
 
